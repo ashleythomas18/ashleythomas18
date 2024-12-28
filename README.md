@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 👋 Hi, I’m @ashleythomas18<br>- 👀 I’m interested in data science, creative writing, and coding to explore innovative solutions.<br>- 🌱 I’m currently learning new coding languages and advancing my data science education.<br>- 💞️ I’m looking to collaborate on projects that involve data storytelling, coding, and innovative communication.<br>- 📫 How to reach me: aashleythomas18@gmail.com<br>- ⚡ Fun fact:  I’ve built projects using Tableau, C++, Python, and web development, and love combining creativity with code!
+# Get to know me:
+- Hi, I’m Ashley.<br>- I’m interested in data science, creative writing, and coding to explore innovative solutions.<br>- Currently learning new coding languages and advancing my data science education.<br>- 💞️ I’m looking to collaborate on projects that involve data storytelling, coding, and innovative communication.<br>- 📫 How to reach me: aashleythomas18@gmail.com<br>- ⚡ Fun fact:  I’ve built projects using Tableau, C++, Python, and web development, and love combining creativity with code!
 
 
 ## 🌐 Socials:
