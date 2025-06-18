@@ -1,5 +1,5 @@
 # Get to know me:
-- Hi, I’m Ashley.<br>- I’m interested in data science, creative writing, and coding.<br>- Currently learning new coding languages and advancing my skills by building projects.<br>-I’ve built projects using React.js, Tableau Python, HTML AND CSS, and I absolutely love being creative when it comes to experimenting with code!<br>
+- Hi, I’m Ashley.<br>- I’m interested in data science, creative writing, and coding.<br>- Currently learning new coding languages and advancing my skills by building projects.<br>- I’ve built projects using React.js, Tableau Python, HTML AND CSS, and I absolutely love being creative when it comes to experimenting with code!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashley-thomas-259849257/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hahashley) 
